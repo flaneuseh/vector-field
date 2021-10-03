@@ -1,6 +1,6 @@
 # Svelte Vector Field and Integrators
 
-A simple Svelte project for simulating motion along a vector field using a variety of integration methods. View the [demos](https://github.com/flaneuseh/vector-field/blob/main/demos)!
+A simple Svelte project for simulating motion along a vector field using a variety of integration methods. View the [demos](https://github.com/flaneuseh/vector-field/tree/main/demos)!
 
 Before you start, `npm` must be installed.
 
