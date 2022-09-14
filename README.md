@@ -4,7 +4,7 @@ A simple Svelte project for simulating motion along a vector field using a varie
 
 Before you start, `npm` must be installed.
 
-To run the vector field, run the commands `npm install` and `npm run start` in the terminal. Then
+To run the vector field, run the commands `npm install`; `npm run build`; `npm run start` in the terminal. Then
 the app should open at `http://localhost:5000` (or another port if 5000 is
 unavailable).
 
